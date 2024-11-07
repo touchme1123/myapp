@@ -1,0 +1,7 @@
+# React build and node_modules (do not track build artifacts)
+build/
+node_modules/
+
+# Do not ignore the source code
+!src/
+!public/
